@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SOLÈNE",
+      "hasCanvas": false,
+      "bodyTextLen": 1484,
+      "bodyTextHash": "9ba7fcd519c45730f953a71f100ad985e723cf60446116a08bfd6256f99272b9",
+      "bodyTextPrefix": "SOLÈNE SHOP LOOKBOOK 0 SPRING AT THE ATELIER Cut for the heat. M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SOLÈNE",
+      "hasCanvas": false,
+      "bodyTextLen": 1473,
+      "bodyTextHash": "7f8892208c86a3cc22fa3ce732c61820b1336e38b48ce067656228e1c38170cd",
+      "bodyTextPrefix": "SOLÈNE 0 SHOP LOOKBOOK SPRING AT THE ATELIER Cut for the heat. M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="SOLÈNE">
+  <rect width="32" height="32" fill="#F4EFE8"/>
+  <path
+    fill="none"
+    stroke="#1C1814"
+    stroke-width="3.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    d="M22.6 9.35c0-2.35-2.25-3.85-5.7-3.85-3.4 0-5.65 1.5-5.65 3.7 0 2.3 2.15 3.4 5.65 4.55 3.55 1.15 6 2.55 6 5.4 0 3-2.85 4.95-6.2 4.95-3.5 0-6.05-1.9-6.2-4.7"
+  />
+</svg>
